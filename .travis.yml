@@ -6,4 +6,5 @@ python:
 - "3.5"
 env:
 - SECRET=KEY
-script: py.test -v
+script: 
+py.test -v
